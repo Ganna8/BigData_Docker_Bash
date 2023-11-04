@@ -1,0 +1,21 @@
+Data Types:
+Time                  object
+Date                 float64
+Day of the week       object
+CarCount             float64
+BikeCount              int64
+BusCount             float64
+TruckCount             int64
+Total                float64
+Traffic Situation     object
+
+Missing Values:
+Time                 0
+Date                 5
+Day of the week      0
+CarCount             5
+BikeCount            0
+BusCount             5
+TruckCount           0
+Total                5
+Traffic Situation    5
